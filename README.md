@@ -1,0 +1,2 @@
+# studyR
+For learning R 
